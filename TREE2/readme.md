@@ -9,4 +9,5 @@ For example, if the heights of sticks are initially [5,3,5], then some valid val
 
 Akbar wants Birbal to completely cut all sticks in the minimum possible number of operations. If you want to be friends with Birbal, help him solve the problem.
 
+
 for more info: https://www.codechef.com/problems/TREE2
