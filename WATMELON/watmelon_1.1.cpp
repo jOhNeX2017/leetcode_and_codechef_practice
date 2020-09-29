@@ -1,3 +1,4 @@
+// As the question is stated that we can decrease the a[i] by i as number of times we want then it's means that if the sum of the array is greater than zero then only we can make it goood sequene else it can't be formed.
 #include <iostream>
 using namespace std;
 

@@ -1,3 +1,4 @@
+// In this as in the question said that we can only decrease A[i] by i so if the sum of the whole array is greater than zero or less than the sum of the n(n+1)/2 then only it can be said as the good sequene
 #include <iostream>
 using namespace std;
 
