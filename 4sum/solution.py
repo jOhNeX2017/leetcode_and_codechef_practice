@@ -3,8 +3,9 @@
 # Here we use two pointer algorithm and we taken two pointer before in which one is looped from 0 to n-1
 # And second one is looping from the i to n-1
 # And for the rest of element we used two pinters
+from functools import cmp_to_key
 
-class Solution:
+class Solution:         #Approach 1
     def fourSum(self, arr,  target):
         n = len(arr)
         if n < 4:
@@ -37,3 +38,16 @@ class Solution:
             
         
         return result
+
+
+
+
+
+if __name__ == '__main__':
+    arr = [1,0,-1,0,-2,2]
+    n = len(arr)
+    a = Solution()
+    print(a.fourSum(arr,0))
+    
+
+
