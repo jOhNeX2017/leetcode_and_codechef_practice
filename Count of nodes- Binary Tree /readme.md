@@ -1,0 +1,1 @@
+### Count the number of nodes in the tree
