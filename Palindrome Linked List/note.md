@@ -1,3 +1,4 @@
+## Link: https://leetcode.com/problems/palindrome-linked-list/description/?envType=featured-list&envId=top-interview-questions
 # Intuition
 To check for a palindrome in a linked list, typically two methods are commonly used:
 
